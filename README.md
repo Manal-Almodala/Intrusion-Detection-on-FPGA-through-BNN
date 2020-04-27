@@ -12,7 +12,7 @@ They are also tagged at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3768
 The cybersecurity_dataset_x.m scripts take the original datasets and binarize them and format them as explained in the paper. The outputs are also available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3768070.svg)](https://doi.org/10.5281/zenodo.3768070)
 
 --------------------------------------------------------------------------------------------------------------------------------
-BNNs are then trained on the new datasets using the scripts from .
+BNNs are then trained on the new datasets using the scripts from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3258669.svg)](https://doi.org/10.5281/zenodo.3258669).
 
 Net_Params/ --> Includes the trained BNN parameters per layer for the UNSW-NB15 and NSLKDD dataset, both in the original partition (FULL) and the new, randomly permutted partition (RAND). (_w are binary weights, _t are integer comparison thresholds). 
 
